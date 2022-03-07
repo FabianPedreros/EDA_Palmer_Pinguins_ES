@@ -28,7 +28,7 @@ Se hace uso del método de análisis de datos utilizado por Google, el cual se c
 
 # Desarrollo
 
-En el documento adjunto de  Jupyter Notebooks se ejecuta paso a paso en análisis exploratorio de datos, siguiendo la metología ya mencionada, ejecutando:
+En el documento adjunto de  Jupyter Notebooks [EDA Pinguinos Archipelago Palmer ES.ipynb](https://github.com/FabianPedreros/EDA_Palmer_Pinguins_ES/blob/main/EDA%20Pinguinos%20Archipelago%20Palmer%20ES.ipynb) se ejecuta paso a paso en análisis exploratorio de datos, siguiendo la metología ya mencionada, ejecutando:
 
 - Gestión de archivos en Python con la librería Pandas.
 - Visualizaciones preliminares de información para comprender los datos, ayudado de librerías como Seaborn y Matplotlib.
