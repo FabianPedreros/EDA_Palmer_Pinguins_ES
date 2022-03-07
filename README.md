@@ -43,6 +43,8 @@ Según el análisis exploratorio de datos, para las observaciones brindadas de d
 
 **Adelie Penguin (Pygoscelis adeliae)**
 
+![alt text](Adelie.jpg)
+
 - Los Adelie parecen tener una profundidad de culmen similar a los Chinstrap
 - Entre las tres especíes son los que poseen una menor longitud de culmen.
 - Poseen un peso estadísticamente similar a los de los Chinstrap, siendo pingüinos de un peso menor a los Gentoo.
@@ -50,13 +52,21 @@ Según el análisis exploratorio de datos, para las observaciones brindadas de d
 - En cuanto a la medida del delta 15 N estos destacan por tener una alta variabilidad y valores estadísticos intermedios al compararlos con las otras dos especíes.
 - Los valores de delta 13 C nos muestran comportamientos similares entre las especíes Adelie y Gentoo
 
+
 **Chinstrap penguin (Pygoscelis antarctica)**
+
+![alt text](Chinstrap.jpg)
+
 - Los Chinstrap son similares a los Adelie en cuanto a la profundidad del culmen y el peso corporal.
 - Tienen un largo de culmen un poco mayor a las otras dos especíes.
 - Su longitud de ala es un poco mayor a la de los Adelie pero menor a los Gentoo.
 - Presentan los mayores valores en cuanto al 15N y 13C, separandose por bastante en esta última medida de los otros dos grupos.
 
+
 **Gentoo penguin (Pygoscelis papua)**
+
+![alt text](Gentoo.jpg)
+
 - Los Gentoo destacan por ser de ala larga y mayor peso. Podrìamos decir que son los más grandes de los tres.
 - Aunque tienen la menor profundidad de culmen de los tres.
 - Presentan los menores valores en cuanto a 15N y están un poco por debajo de los Adelie en 13C.
