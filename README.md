@@ -41,9 +41,7 @@ En el documento adjunto de  Jupyter Notebooks se ejecuta paso a paso en análisi
 
 Según el análisis exploratorio de datos, para las observaciones brindadas de diferentes especíes de pingüinos en el archipielago Palmer, se puede concluir que se puede dar una clasificación para cada especíe según las carácteristicas físicas muestreadas en el estudio. Es decir, existen diferencias físicas entre las especíes estudiadas de la siguiente manera:
 
-**Adelie Penguin (Pygoscelis adeliae)***
-
-![download.jpg](attachment:download.jpg)
+**Adelie Penguin (Pygoscelis adeliae)**
 
 - Los Adelie parecen tener una profundidad de culmen similar a los Chinstrap
 - Entre las tres especíes son los que poseen una menor longitud de culmen.
